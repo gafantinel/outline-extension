@@ -1,0 +1,15 @@
+{
+    "name": "Outline extension",
+    "description": "Shortcut to outline using right click menu",
+    "version": "1.0",
+    "manifest_version": 3,
+    "icons": { 
+        "16": "outline-logo-16.png",
+        "48": "outline-logo-48.png",
+        "128": "outline-logo-128.png" 
+    },
+    "permissions":["tabs","contextMenus"],
+    "background": {
+        "service_worker":"main.js"
+    }
+  }
