@@ -14,7 +14,7 @@ All fine and dandy, right? Except I'm a lazy person and this process of copying 
 5. Select the folder you've downloaded previously.
 
 ## How do I use this?
-Access any article protected by a payload, right-click anywhere and select the option "Read with Outline".
+Access any article protected by a payload, right-click anywhere and select the option "Read in Outline".
 
 ## This sucks tbh
 Well, that's too bad.
